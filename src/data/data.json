@@ -1,0 +1,275 @@
+ [
+            {
+                "id": 4,
+                "listenCount": 19200000,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_4_300_211933668.jpg",
+                "songLists": [
+                    {
+                        "singername": "林俊杰",
+                        "songname": "输了你赢了世界又如何 (Live)"
+                    },
+                    {
+                        "singername": "薛之谦",
+                        "songname": "背过手"
+                    },
+                    {
+                        "singername": "易烊千玺",
+                        "songname": "Nothing to Lose"
+                    }
+                ],
+                "topTitle": "广汽传祺·巅峰榜·流行指数",
+                "type": 0
+            },
+            {
+                "id": 26,
+                "listenCount": 19500000,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_26_300_210693539.jpg",
+                "songLists": [
+                    {
+                        "singername": "薛之谦",
+                        "songname": "骆驼"
+                    },
+                    {
+                        "singername": "毛不易",
+                        "songname": "请记住我"
+                    },
+                    {
+                        "singername": "PRC 巴音汗",
+                        "songname": "80000 ! (prod.by DROYC原声版)"
+                    }
+                ],
+                "topTitle": "巅峰榜·热歌",
+                "type": 0
+            },
+            {
+                "id": 27,
+                "listenCount": 12033790,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_27_300_211968915.jpg",
+                "songLists": [
+                    {
+                        "singername": "薛之谦",
+                        "songname": "背过手"
+                    },
+                    {
+                        "singername": "易烊千玺",
+                        "songname": "Unpredictable"
+                    },
+                    {
+                        "singername": "那英",
+                        "songname": "一眼千年"
+                    }
+                ],
+                "topTitle": "巅峰榜·新歌",
+                "type": 0
+            },
+            {
+                "id": 30,
+                "listenCount": 10975990,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_30_300_211933668.jpg",
+                "songLists": [
+                    {
+                        "singername": "林俊杰",
+                        "songname": "输了你赢了世界又如何 (Live)"
+                    },
+                    {
+                        "singername": "A-Lin",
+                        "songname": "月牙湾 (Live)"
+                    },
+                    {
+                        "singername": "羽泉",
+                        "songname": "酒干倘卖无 (Live)"
+                    }
+                ],
+                "topTitle": "巅峰榜·梦想的声音",
+                "type": 0
+            },
+            {
+                "id": 28,
+                "listenCount": 18329776,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_28_300_205000888.jpg",
+                "songLists": [
+                    {
+                        "singername": "麦小兜",
+                        "songname": "9420"
+                    },
+                    {
+                        "singername": "白小白",
+                        "songname": "维也纳的冬天"
+                    },
+                    {
+                        "singername": "季彦霖/箱子君",
+                        "songname": "你根本不懂"
+                    }
+                ],
+                "topTitle": "巅峰榜·网络歌曲",
+                "type": 0
+            },
+            {
+                "id": 5,
+                "listenCount": 8565280,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_5_300_210693539.jpg",
+                "songLists": [
+                    {
+                        "singername": "薛之谦",
+                        "songname": "骆驼"
+                    },
+                    {
+                        "singername": "毛不易",
+                        "songname": "请记住我"
+                    },
+                    {
+                        "singername": "李荣浩",
+                        "songname": "少年"
+                    }
+                ],
+                "topTitle": "巅峰榜·内地",
+                "type": 0
+            },
+            {
+                "id": 6,
+                "listenCount": 4526780,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_6_300_210322673.jpg",
+                "songLists": [
+                    {
+                        "singername": "张信哲/张艾嘉",
+                        "songname": "永恒的印记"
+                    },
+                    {
+                        "singername": "王俊琪",
+                        "songname": "我多喜欢你，你会知道"
+                    },
+                    {
+                        "singername": "杨丞琳",
+                        "songname": "一千零一个愿望 (单人版)"
+                    }
+                ],
+                "topTitle": "巅峰榜·港台",
+                "type": 0
+            },
+            {
+                "id": 3,
+                "listenCount": 10758380,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_3_300_210006176.jpg",
+                "songLists": [
+                    {
+                        "singername": "Flo Rida/Maluma",
+                        "songname": "Hola"
+                    },
+                    {
+                        "singername": "Steve Aoki/Lauren Jauregui",
+                        "songname": "All Night"
+                    },
+                    {
+                        "singername": "Fuse ODG/Mugeez/Ed Sheeran",
+                        "songname": "Boa Me"
+                    }
+                ],
+                "topTitle": "巅峰榜·欧美",
+                "type": 0
+            },
+            {
+                "id": 16,
+                "listenCount": 7306500,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_16_300_207570352.jpg",
+                "songLists": [
+                    {
+                        "singername": "EXID (이엑스아이디)",
+                        "songname": "덜덜덜 (抖抖抖)"
+                    },
+                    {
+                        "singername": "MIXNINE (믹스나인)",
+                        "songname": "JUST DANCE"
+                    },
+                    {
+                        "singername": "현아 (泫雅)",
+                        "songname": "베베 (BABE)"
+                    }
+                ],
+                "topTitle": "巅峰榜·韩国",
+                "type": 0
+            },
+            {
+                "id": 17,
+                "listenCount": 1789350,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_17_300_202981859.jpg",
+                "songLists": [
+                    {
+                        "singername": "8utterfly (バタフライ)",
+                        "songname": "最後のサヨナラ、最後の告白 (最后的道别、最后的告白)"
+                    },
+                    {
+                        "singername": "田口淳之介",
+                        "songname": "DIMENSION"
+                    },
+                    {
+                        "singername": "moumoon (沐月)",
+                        "songname": "光の影 (光之影)"
+                    }
+                ],
+                "topTitle": "巅峰榜·日本",
+                "type": 0
+            },
+            {
+                "id": 201,
+                "listenCount": 301216,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150127163830.jpg",
+                "songLists": [
+                    {
+                        "singername": "杨宗纬",
+                        "songname": "一场恋爱"
+                    },
+                    {
+                        "singername": "MC七星",
+                        "songname": "佛说"
+                    },
+                    {
+                        "singername": "戚薇",
+                        "songname": "镜像"
+                    }
+                ],
+                "topTitle": "巅峰榜·MV",
+                "type": 0
+            },
+            {
+                "id": 52,
+                "listenCount": 1949550,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_52_300_210737116.jpg",
+                "songLists": [
+                    {
+                        "singername": "陈陈陈",
+                        "songname": "鸟惊心"
+                    },
+                    {
+                        "singername": "张璐诗",
+                        "songname": "时间线"
+                    },
+                    {
+                        "singername": "Kafe.Hu",
+                        "songname": "FIRE（火）"
+                    }
+                ],
+                "topTitle": "巅峰榜·腾讯音乐人原创榜",
+                "type": 0
+            },
+            {
+                "id": 36,
+                "listenCount": 3860420,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_36_300_200525765.jpg",
+                "songLists": [
+                    {
+                        "singername": "苏悦宁",
+                        "songname": "红色高跟鞋"
+                    },
+                    {
+                        "singername": "胡赟兆",
+                        "songname": "啷个哩个啷"
+                    },
+                    {
+                        "singername": "申静雯",
+                        "songname": "告白气球"
+                    }
+                ],
+                "topTitle": "巅峰榜·K歌金曲",
+                "type": 0
+            }
+        ]
